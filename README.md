@@ -8,7 +8,7 @@ To perform Exploratory Data Analysis (EDA) on the 'Uber Dataset' to identify key
 1-	Most Common Purposes for Uber Trips: Percentage distribution of trip purposes (e.g., top 3 most frequent purposes).                                                                                                                                                                             
 2-	Trip Length Comparison: Average trip length (in miles or minutes) for business vs. personal categories, with a variance analysis to highlight differences.                                      
 3-	Mileage Trends: Average mileage per trip purpose and time of day (e.g., morning, afternoon, evening, night).                                    
- # The process for the "Exploratory Data Analysis follows:
+ ## The process for the "Exploratory Data Analysis follows:
 1.	Data Collection: 
 o	Obtain the 'Uber Dataset' from the provided data link.
 2.	Exploratory Data Analysis (EDA): 
@@ -24,5 +24,8 @@ o	Develop dashboards or storyboards to present findings, including:
 	Distribution of trip purposes (e.g., Meeting, Customer Visit, etc.).
 	Mileage trends by start point, date, and total miles.
 	Comparison of trip counts or mileage between business and personal categories.
+
+## View Dashbord
+- <a href = "https://github.com/YahiaHm200/Uber_Trips-Dashboard/blob/main/Screenshot%202025-07-14%20024637.png" > View Dashboard <a>
  
 
